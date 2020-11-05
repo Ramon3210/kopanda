@@ -8,7 +8,7 @@ class Evaluacion extends React.Component {
     render() { 
         return ( 
             <div>
-            <Header name="VISIÓN" />
+            <Header name="OBJETIVO" />
                 <EvaluacionView />
                 <Footer />
             </div>
