@@ -24,7 +24,7 @@ class Content extends Component {
           <div>
           <Link to="/evaluacion">
             <Button variant="contained" color="default">
-              Visión
+              Objetivo
             </Button>
           </Link>
           </div>
@@ -32,7 +32,7 @@ class Content extends Component {
          
           <Link to="/comidas">
             <Button variant="contained" color="default">
-              Objetivo
+              Prototipo
             </Button>
           </Link>
           
