@@ -75,7 +75,7 @@ class DatosView extends Component {
             Regresar
           </Button>
         </Link>
- <h6><font face="Gabriola" color="black"> Para fortalecer la producción de aguacate, será importante impulsar el consumo interno, mejorar la infraestructura logística, el transporte y la mano de obra calificada. Queremos apoyar este crecimiento y la promesa de una vida mejor para los agricultores del país.</font></h6>
+<font size="12" face="Gabriola" color="black"> Para fortalecer la producción de aguacate, será importante impulsar el consumo interno, mejorar la infraestructura logística, el transporte y la mano de obra calificada. Queremos apoyar este crecimiento y la promesa de una vida mejor para los agricultores del país.</font>
         {/* <h1>{this.props.name}</h1>
         <form autoComplete="off" onSubmit={this.addData}>
           <table>
