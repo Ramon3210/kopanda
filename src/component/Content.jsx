@@ -16,7 +16,7 @@ class Content extends Component {
         <Container maxWidth="sm">
           <Link to="/datos">
             <Button variant="contained" color="default">
-              Misión
+              Cultivo
             </Button>
           </Link>
         
