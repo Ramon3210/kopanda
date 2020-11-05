@@ -8,7 +8,7 @@ class Comidas extends React.Component {
     render() { 
         return ( 
             <div>
-            <Header name="OBJETIVO" />
+            <Header name="PROTOTIPO" />
                 <ComidasView />
                 <Footer />
             </div>
