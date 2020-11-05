@@ -75,8 +75,7 @@ class DatosView extends Component {
             Regresar
           </Button>
         </Link>
- <h8>Para fortalecer la producción de aguacate, será importante impulsar el consumo interno, mejorar la infraestructura logística, el transporte y la mano de obra calificada.</h8>
- <h8>Queremos apoyar este crecimiento y la promesa de una vida mejor para los agricultores del país.</h8>
+ <h8>Para fortalecer la producción de aguacate, será importante impulsar el consumo interno, mejorar la infraestructura logística, el transporte y la mano de obra calificada. Queremos apoyar este crecimiento y la promesa de una vida mejor para los agricultores del país.</h8>
         {/* <h1>{this.props.name}</h1>
         <form autoComplete="off" onSubmit={this.addData}>
           <table>
