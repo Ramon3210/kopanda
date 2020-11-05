@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 
 
-
+import Crecimiento from './component/Actividad';
 import Datos from './component/Datos';
 import Content from './component/Content';
 import Footer from './component/Footer';
@@ -22,6 +22,7 @@ function App() {
           <Route path="/datos" exact component={Datos} />
           <Route path="/evaluacion" exact component={Evaluacion} />
           <Route path="/comidas" exact component={Comidas} />
+          <Route path="/Crecimiento" exact component={Actividad} />
           <Route path="/actividad" exact component={Actividad} />
           <Route path="/videos" exact component={Videos} />
           <Route path="/test" exact component={() => <h1>Principal</h1>} />
