@@ -29,6 +29,15 @@ class Content extends Component {
           </Link>
           </div>
           
+           &nbsp;&nbsp;
+          <div>
+          <Link to="/crecimiento">
+            <Button variant="contained" color="default">
+              Crecimiento
+            </Button>
+          </Link>
+          </div>
+          
          
           <Link to="/comidas">
             <Button variant="contained" color="default">
