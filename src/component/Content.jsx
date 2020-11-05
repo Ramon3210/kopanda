@@ -29,7 +29,7 @@ class Content extends Component {
           </Link>
           </div>
           
-          &nbsp;
+     
           <div>
           <Link to="/crecimiento">
             <Button variant="contained" color="default">
