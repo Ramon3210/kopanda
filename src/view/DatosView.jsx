@@ -75,7 +75,7 @@ class DatosView extends Component {
             Regresar
           </Button>
         </Link>
-
+ <h8>Ocupación:</h8>
         {/* <h1>{this.props.name}</h1>
         <form autoComplete="off" onSubmit={this.addData}>
           <table>
