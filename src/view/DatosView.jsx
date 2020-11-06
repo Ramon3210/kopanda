@@ -85,6 +85,18 @@ class DatosView extends Component {
             <td>
               ÁRBOLES
             </td>
+            <td>
+              DISTANCIA PLANTAS
+            </td>
+            <td>
+              DISTANCIA SURCOS
+            </td>
+            <td>
+              PRODUCCIÓN ÁRBOL(KG)
+            </td>
+            <td>
+              RENDIMIENTO(KG)
+            </td>
           </tr>
         </table>
        </form>
