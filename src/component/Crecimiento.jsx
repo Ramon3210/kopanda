@@ -8,7 +8,7 @@ class Crecimiento extends React.Component {
     render() { 
         return ( 
             <div>
-            <Header name="Crecimiento" />
+            <Header name="CRECIMIENTO" />
                 <CrecimientoView />
                 <Footer />
             </div>
