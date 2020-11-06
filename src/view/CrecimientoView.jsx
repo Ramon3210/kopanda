@@ -8,7 +8,7 @@ class CrecimientoView extends Component {
   state = {};
   render() {
     return (
-      <div className="css-crecimiento">
+      <div className="css-actividad">
         <Link to="/">
           <Button
             variant="contained"
