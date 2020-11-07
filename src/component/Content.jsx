@@ -19,18 +19,12 @@ class Content extends Component {
               Cultivo
             </Button>
           </Link>
-        
-          <Link to="/poda">
-            <Button variant="contained" color="default">
-              Poda
-            </Button>
-          </Link>
           
           &nbsp;&nbsp;
           <div>
           <Link to="/evaluacion">
             <Button variant="contained" color="default">
-              Objetivo
+              Poda
             </Button>
           </Link>
           </div>
