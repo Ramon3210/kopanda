@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 
-
+import Poda from './component/Poda';
 import Crecimiento from './component/Crecimiento';
 import Datos from './component/Datos';
 import Content from './component/Content';
@@ -23,6 +23,7 @@ function App() {
           <Route path="/evaluacion" exact component={Evaluacion} />
           <Route path="/comidas" exact component={Comidas} />
           <Route path="/crecimiento" exact component={Crecimiento} />
+          <Route path="/poda" exact component={Poda} />
           <Route path="/actividad" exact component={Actividad} />
           <Route path="/videos" exact component={Videos} />
           <Route path="/test" exact component={() => <h1>Principal</h1>} />
