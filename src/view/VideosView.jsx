@@ -21,7 +21,7 @@ import ReactPlayer from 'react-player'
                           </Link>
                           <div>
                                 <ReactPlayer
-                                      url='https://www.youtube.com/watch?v=ZNvB-YE9Tuw'
+                                      url='https://youtu.be/979i74348yY'
                                       className='react-player'
                                       playing
                                       width='100%'
