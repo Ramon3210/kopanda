@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Header from './Header';
 import DatosView from '../view/DatosView';
 import Footer from './Footer';
-import tabladensidad from "../CapturaKOPANDA.png";
 
 class Datos extends Component {
     state = {  }
