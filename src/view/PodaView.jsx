@@ -19,10 +19,9 @@ class PodaView extends Component {
             Regresar
           </Button>
         </Link>
-  
-        <font size="6" face="Gabriola" color="black">Aquí va la PODA</font>
 
       </div>
+ <font size="6" face="Gabriola" color="black">Aquí va la PODA</font>
     );
   }
 }
