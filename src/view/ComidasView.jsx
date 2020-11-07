@@ -18,6 +18,8 @@ class ComidasView extends Component {
                     Regresar
                     </Button>
                 </Link>
+                <a href="https://drive.google.com/file/d/1QhCwqBle3uOgmJzRaagm6ZMFW5LLhTP6/view?usp=sharing"</a> 
+                
             </div>
          );
     }
