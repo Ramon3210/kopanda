@@ -20,6 +20,12 @@ class Content extends Component {
             </Button>
           </Link>
         
+          <Link to="/poda">
+            <Button variant="contained" color="default">
+              Poda
+            </Button>
+          </Link>
+          
           &nbsp;&nbsp;
           <div>
           <Link to="/evaluacion">
