@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import HomeIcon from "@material-ui/icons/Home";
 import { TextField } from "@material-ui/core";
 import imgDatos from "../imgDatos.png";
-import tablaDensidad from "../CapturaKOPANDA.png";
+import tablaDensidad from "../CapturaKOPANDA.PNG";
 
 import { Button } from "@material-ui/core";
 import Dropdown from "react-dropdown";
