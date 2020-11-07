@@ -29,6 +29,19 @@ import ReactPlayer from 'react-player'
                                       
                                     />
                                 </div>
+                              
+                              <ReactPlayer
+                                      url=' https://youtu.be/979i74348yY'
+                                      className='react-player'
+                                      playing
+                                      width='100%'
+                                      height='100%'
+                                      
+                                    />
+                                </div>
+                              
+                            
+                              
                         </div>
 
                       );
