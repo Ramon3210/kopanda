@@ -77,7 +77,7 @@ class DatosView extends Component {
           </Button>
         </Link>
 <font size="6" face="Gabriola" color="black"> Para fortalecer la producción de aguacate, será importante impulsar el consumo interno, mejorar la infraestructura logística, el transporte y la mano de obra calificada. Queremos apoyar este crecimiento y la promesa de una vida mejor para los agricultores del país.Antes de establecer un huerto de aguacate debemos tener claro qué  buscamos con este proyecto, la ubicación, el número de árboles que vamos a establecer, qué tipo de mano de obra hay en la región, condiciones climáticas de la zona, entre otros, y el factor clave:  a dónde esperamos comercializar el aguacate que vamos a producir, será para el mercado nacional o internacional, para el consumo en fresco o agroindustria, pues con este objetivo establecido se definen cuántos árboles se deben establecer por hectárea.  La distancia de siembra me indicará el número de plantas que caben por Ha. Una densidad alta es mayor a los 250 árboles; una densidad media de 150 a 250 y una densidad baja menos de 150 árboles/Ha (Ver Tabla). Según el tipo de mercado de comercialización podemos establecer la densidad: para mercados nacionales se recomiendan densidades que varían entre bajas a medias, para mercados internacionales la densidad debe establecerse entre media a alta buscando favorecer el rendimiento en recolección y el cuidado de la fruta.</font>
-     <img src={tablaDensidad} className="App-logo" alt="densidad" />
+     <img src={tablaDensidad} className="App-logo" alt="crecimeinto" />
         <br>
         <form autoComplete="off">
         <table border="1">
