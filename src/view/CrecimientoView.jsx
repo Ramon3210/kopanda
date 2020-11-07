@@ -20,7 +20,7 @@ class CrecimientoView extends Component {
           </Button>
         </Link>
   
-        <font size="6" face="Gabriola" color="black">Es muy importante conocer qué prácticas hacer en cada etapa de crecimiento del árbol:
+        <font size="6" face="Gabriola" color="black">s muy importante conocer qué prácticas hacer en cada etapa de crecimiento del árbol:
 
 El establecimiento del cultivo comienza en la siembra y se caracteriza por el crecimiento vegetativo,  en esta etapa debo enfocar el árbol a la producción de nuevos cogollos, estos cogollos son bronceados  y su intensidad en color varía según cada variedad; con el paso del tiempo el color de la hoja pasa a ser “verde claro” y este es el color que debe predominar en el árbol. Debemos estimular siempre la producción de cogollos, protección de las hojas del ataque de plagas o enfermedades y no ilusionarnos por floraciones que no son significativas en esta etapa, solo  hasta que el árbol alcance la copa deseada (el árbol debe ser más ancho que alto).
 
