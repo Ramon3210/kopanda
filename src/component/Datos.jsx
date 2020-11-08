@@ -8,7 +8,7 @@ class Datos extends Component {
     render() { 
         return ( 
             <div>
-            <Header name="CULTIVO" />
+            <Header name="CULTIVOS" />
                 <DatosView />
                 <Footer />
             </div>
